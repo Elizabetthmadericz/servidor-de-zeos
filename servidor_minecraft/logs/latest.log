@@ -1,0 +1,321 @@
+[19:18:07] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[19:18:07] [ForkJoinPool-1-worker-3/WARN]: Mod moredelight uses the version 25.07.28a-1.21.7-fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component '28a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[19:18:07] [main/INFO]: Loading 122 mods:
+	- alcocraftplus 2.1.0
+	- amber 6.0.12+1.21.8
+	- architectury 17.0.8
+	- balm 21.8.10
+	   \-- kuma_api 21.8.5
+	- bettervillage 3.3.1
+	- biomeswevegone 4.0.2
+	- cardinal-components 7.0.0-beta.1
+	   |-- cardinal-components-base 7.0.0-beta.1
+	   |-- cardinal-components-block 7.0.0-beta.1
+	   |-- cardinal-components-chunk 7.0.0-beta.1
+	   |-- cardinal-components-entity 7.0.0-beta.1
+	   |-- cardinal-components-item 7.0.0-beta.1
+	   |-- cardinal-components-level 7.0.0-beta.1
+	   |-- cardinal-components-scoreboard 7.0.0-beta.1
+	   \-- cardinal-components-world 7.0.0-beta.1
+	- cloth-config 19.0.147
+	   \-- cloth-basic-math 0.6.1
+	- corgilib 7.0.0.0
+	   |-- com_electronwill_night-config_core 3.8.2
+	   \-- com_electronwill_night-config_toml 3.8.2
+	- cratedelight 25.9.22-1.21.7-fabric
+	- crops_xp 1.0.0
+	- culturaldelights 0.1.1+1.21.8
+	   \-- factorytools 0.7.0+1.21.6
+	- fabric-api 0.134.0+1.21.8
+	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
+	   |-- fabric-biome-api-v1 16.1.0+c21d71cc2c
+	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
+	   |-- fabric-content-registries-v0 10.1.0+c75de69d2c
+	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
+	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
+	   |-- fabric-data-attachment-api-v1 1.8.13+38b5f74e2c
+	   |-- fabric-data-generation-api-v1 23.2.7+2e1c6d322c
+	   |-- fabric-dimensions-v1 4.0.20+948fc79a2c
+	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
+	   |-- fabric-events-interaction-v0 4.0.25+946bf4c32c
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
+	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
+	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
+	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
+	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
+	   |-- fabric-model-loading-api-v1 5.2.7+946bf4c32c
+	   |-- fabric-networking-api-v1 5.0.3+4ddbf91b2c
+	   |-- fabric-object-builder-api-v1 21.1.9+946bf4c32c
+	   |-- fabric-particles-v1 4.1.9+946bf4c32c
+	   |-- fabric-recipe-api-v1 8.1.16+946bf4c32c
+	   |-- fabric-registry-sync-v0 6.1.29+946bf4c32c
+	   |-- fabric-renderer-api-v1 7.0.4+208eed172c
+	   |-- fabric-renderer-indigo 4.0.4+946bf4c32c
+	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
+	   |-- fabric-rendering-v1 12.5.1+fbe231d52c
+	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
+	   |-- fabric-resource-loader-v0 3.1.12+020423442c
+	   |-- fabric-screen-api-v1 2.2.0+e0cb65d02c
+	   |-- fabric-screen-handler-api-v1 1.3.138+946bf4c32c
+	   |-- fabric-serialization-api-v1 1.0.0+fc0e5aba2c
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
+	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
+	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
+	   \-- fabric-transitive-access-wideners-v1 6.5.0+c847ce762c
+	- fabricloader 0.17.2
+	   \-- mixinextras 0.5.0
+	- farmersdelight 1.21.8-3.3.1+refabricated
+	   \-- mm 2.3
+	- ferritecore 8.0.0
+	- flowerymooblooms 3.0.2
+	- friendsandfoes 4.0.10
+	- geckolib 5.2.2
+	- gravestones 1.21.8
+	- jamlib 1.3.5+1.21.8
+	   \-- blue_endless_jankson 1.2.3
+	- java 21
+	- kafvalentine 4.1.0+1.21.7
+	- letyourfriendeating 1.0.4+patch1
+	- libraryferret 4.0.0
+	- lithium 0.18.1+mc1.21.8
+	- minecraft 1.21.8
+	- mob-ai-tweaks 1.8.2
+	- moredelight 25.07.28a-1.21.7-fabric
+	- mr_fathoms 1.2.5
+	- mr_katters_structures 2.3
+	- mr_vanilla_plusdatapack 19.0
+	- ohthetreesyoullgrow 8.0.2
+	- pneumonocore 1.21.8
+	- polymer-bundled 0.13.13+1.21.8
+	   |-- polymer-autohost 0.13.13+1.21.8
+	   |    \-- io_netty_netty-codec-http 4.1.82
+	   |-- polymer-blocks 0.13.13+1.21.8
+	   |-- polymer-common 0.13.13+1.21.8
+	   |    \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |-- polymer-core 0.13.13+1.21.8
+	   |    |-- polymer-networking 0.13.13+1.21.8
+	   |    |    \-- polymer-common 0.13.13+1.21.8
+	   |    |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |    \-- polymer-registry-sync-manipulator 0.13.13+1.21.8
+	   |-- polymer-resource-pack 0.13.13+1.21.8
+	   |    \-- polymer-common 0.13.13+1.21.8
+	   |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |-- polymer-resource-pack-extras 0.13.13+1.21.8
+	   |-- polymer-sound-patcher 0.13.13+1.21.8
+	   \-- polymer-virtual-entity 0.13.13+1.21.8
+	        \-- polymer-common 0.13.13+1.21.8
+	             \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	- resourcefullib 3.6.0
+	   |-- com_teamresourceful_bytecodecs 1.1.3
+	   \-- com_teamresourceful_yabn 1.0.3
+	- rightclickharvest 4.6.0+1.21.8
+	- simply-slingshot 0.1.3+1.21.8
+	   \-- common-protection-api 1.0.0
+	- skinrestorer 2.4.3+1.21.6-fabric
+	   \-- org_mineskin_java-client 3.0.6-SNAPSHOT
+	- terrablender 6.0.0.3
+	- trashslot 21.8.1
+	- travelersbackpack 10.8.3
+	- unlimited-enchantments 1.0.2
+	- variantsandventures 1.0.18
+	- waystones 21.8.5
+	- wills-farming-tweaks 1.0.6
+	- yet_another_config_lib_v3 3.7.1+1.21.6-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+[19:18:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servidor-de-zeos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:18:07] [main/INFO]: Compatibility level set to JAVA_21
+[19:18:08] [main/WARN]: Reference map 'kafvalentine-common-1.21.7-common-refmap.json' for kafvalentine.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:18:08] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[19:18:08] [main/INFO]: Loaded configuration file for Lithium: 164 options available, 0 override(s) found.
+[19:18:08] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:18:08] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:18:08] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:18:08] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:18:08] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
+[19:18:08] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[19:18:08] [main/WARN]: Error loading class: net/minecraft/class_897 (java.lang.ClassNotFoundException: net/minecraft/class_897)
+[19:18:08] [main/WARN]: @Mixin target net.minecraft.class_897 was not found geckolib.mixins.json:client.EntityRendererMixin from mod geckolib
+[19:18:09] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[19:18:14] [main/WARN]: Method overwrite conflict for scheduleRandomTick in ohthetreesyoullgrow.mixins.json:chunk.MixinChunkAccess from mod ohthetreesyoullgrow, previously written by corgitaco.corgilib.mixin.chunk.MixinChunkAccess. Skipping method.
+[19:18:14] [main/WARN]: Method overwrite conflict for getScheduledRandomTicks in ohthetreesyoullgrow.mixins.json:chunk.MixinChunkAccess from mod ohthetreesyoullgrow, previously written by corgitaco.corgilib.mixin.chunk.MixinChunkAccess. Skipping method.
+[19:18:17] [main/INFO]: Initializing recipes for AlcoCraftPlus
+[19:18:17] [main/INFO]: Initializing Everlasting Amber Dreams on Fabric...
+[19:18:17] [main/INFO]: Amber internal networking initialized
+[19:18:17] [main/INFO]: Initializing network...
+[19:18:17] [main/INFO]: Initialized network!
+[19:18:17] [main/INFO]: Registering Oh The Biomes We've Gone data components
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone items
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Blocks
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Wood
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Block Entities
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Entities
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Creative Tabs
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Sounds
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Block Predicate
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone State Providers
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Tree Decorators
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Custom Features
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Structure Pieces
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Custom Structure Types
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Configured Features
+[19:18:18] [main/INFO]: Creating and Registering Overworld Vegetation Configured Features
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Tree Configured Features
+[19:18:18] [main/INFO]: Creating and Registering Vanilla Configured Features
+[19:18:18] [main/INFO]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Placed Features
+[19:18:18] [main/INFO]: Creating and Registering Overworld Tree Placed Features
+[19:18:18] [main/INFO]: Creating and Registering Overworld Vegetation Placed Features
+[19:18:18] [main/INFO]: Creating and Registering Vanilla Placed Features
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Template Pools
+[19:18:18] [main/INFO]: Registering Oh The Biome's We've Gone Village Template Pools
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Poi Types
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Villager Professions
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone villager types
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Schedules
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Memory Module Types
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Sensor Types
+[19:18:18] [main/INFO]: Registering Oh The Biomes We've Gone Map Decoration Types
+[19:18:18] [main/INFO]: Creating and Registering BWG Biome Modifiers for Vanilla Biomes
+[19:18:18] [main/INFO]: Registering Item Groups for cratedelight
+[19:18:18] [main/INFO]: Registering mod blocks for cratedelight
+[19:18:19] [main/INFO]: Successfully added mod assets for culturaldelights
+[19:18:19] [main/INFO]: Loaded config farmersdelight-common.json
+[19:18:19] [main/INFO]: Deserializing FriendsAndFoesConfig from 'config/friendsandfoes.json'
+[19:18:19] [main/INFO]: Initializing Gravestones
+[19:18:19] [main/INFO]: Config file for mod 'gravestones' does not exist. Creating new one with default values...
+[19:18:19] [main/INFO]: Initializing JamLib on Fabric
+[19:18:19] [main/INFO]: For Aristea.
+[19:18:19] [main/INFO]: letyourfriendeating initialized with feedFriendEnabled=true and cooldownMs=700ms
+[19:18:19] [main/INFO]: Initialize mod Library Ferret
+[19:18:19] [main/INFO]: Initialized mod Library Ferret
+[19:18:19] [main/INFO]: Definitely not up to no good
+[19:18:19] [main/INFO]: Initializing PneumonoCore
+[19:18:19] [main/INFO]: Updated config file at /workspaces/servidor-de-zeos/servidor_minecraft/config/rightclickharvest.json5
+[19:18:19] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[19:18:19] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[19:18:19] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[19:18:19] [main/INFO]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
+[19:18:19] [main/INFO]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
+[19:18:19] [main/INFO]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
+[19:18:20] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[19:18:20] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[19:18:20] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[19:18:20] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[19:18:20] [main/INFO]: Deserializing ModMobsConfig from 'config/variantsandventures/mod_mobs.json'
+[19:18:20] [main/INFO]: Deserializing VanillaMobsConfig from 'config/variantsandventures/vanilla_mobs.json'
+[19:18:20] [main/INFO]: Will's: Farming Tweaks Initialised
+[19:18:20] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:18:20] [main/INFO]: Found new data pack gravestones, loading it automatically
+[19:18:20] [main/INFO]: Found new data pack waystones, loading it automatically
+[19:18:21] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / kattersstructures:chests/swamp/house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / kattersstructures:chests/underground/house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / kattersstructures:chests/ocean/lighthouse]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / kattersstructures:chests/sky/house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / biomeswevegone:chests/village/red_rock/house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / farmersdelight:chests/fd_village_savanna_house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / minecraft:chests/village/village_snowy_house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / kattersstructures:chests/cherry/house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / kattersstructures:chests/ocean/house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / biomeswevegone:chests/village/pumpkin_patch/house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / biomeswevegone:chests/village/skyris/house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / biomeswevegone:chests/village/salem/house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / minecraft:chests/village/village_savanna_house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / minecraft:chests/village/village_taiga_house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / farmersdelight:chests/fd_village_plains_house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / farmersdelight:chests/fd_village_snowy_house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / kattersstructures:chests/birch/house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / kattersstructures:chests/mesa/house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / minecraft:blocks/short_grass]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / minecraft:chests/village/village_desert_house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / minecraft:blocks/tall_grass]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / kattersstructures:chests/skyhold/house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / biomeswevegone:chests/village/forgotten/house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / minecraft:chests/village/village_plains_house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / farmersdelight:chests/fd_village_taiga_house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / kattersstructures:chests/jungle/house]
+[19:18:22] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / farmersdelight:chests/fd_village_desert_house]
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:chests/village/village_fisher@minecraft:loot_table}.pools[0].entries[1]->{fathoms:gameplay/fishing/fish@minecraft:loot_table}.pools[0].entries[17]->{fathoms:items/fish/compatibility/swordfish@minecraft:loot_table}.pools[0].entries[0]: Missing element tcc:items/swordfish of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:entities/elder_guardian@minecraft:loot_table}.pools[3].entries[0]->{fathoms:gameplay/fishing/fish@minecraft:loot_table}.pools[0].entries[17]->{fathoms:items/fish/compatibility/swordfish@minecraft:loot_table}.pools[0].entries[0]: Missing element tcc:items/swordfish of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:chests/trial_chambers/reward@minecraft:loot_table}.pools[0].entries[0]->{minecraft:chests/trial_chambers/reward_rare@minecraft:loot_table}.pools[0].entries[0]: Missing element moldomre:items/extras/mutated_red_mushroom of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:chests/trial_chambers/reward@minecraft:loot_table}.pools[0].entries[0]->{minecraft:chests/trial_chambers/reward_rare@minecraft:loot_table}.pools[0].entries[1]: Missing element moldomre:items/extras/mutated_brown_mushroom of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:chests/trial_chambers/reward@minecraft:loot_table}.pools[2].entries[0]->{minecraft:chests/trial_chambers/reward_unique@minecraft:loot_table}.pools[0].entries[0]: Missing element moldomre:items/extras/mutated_crimson_fungus of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:chests/trial_chambers/reward@minecraft:loot_table}.pools[2].entries[0]->{minecraft:chests/trial_chambers/reward_unique@minecraft:loot_table}.pools[0].entries[1]: Missing element moldomre:items/extras/mutated_warped_fungus of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:gameplay/cat_morning_gift@minecraft:loot_table}.pools[0].entries[0]->{fathoms:gameplay/fishing/fish@minecraft:loot_table}.pools[0].entries[17]->{fathoms:items/fish/compatibility/swordfish@minecraft:loot_table}.pools[0].entries[0]: Missing element tcc:items/swordfish of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:chests/trial_chambers/reward_rare@minecraft:loot_table}.pools[0].entries[0]: Missing element moldomre:items/extras/mutated_red_mushroom of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:chests/trial_chambers/reward_rare@minecraft:loot_table}.pools[0].entries[1]: Missing element moldomre:items/extras/mutated_brown_mushroom of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:gameplay/fishing@minecraft:loot_table}.pools[0].entries[0].children[0]->{fathoms:gameplay/fishing/fish@minecraft:loot_table}.pools[0].entries[17]->{fathoms:items/fish/compatibility/swordfish@minecraft:loot_table}.pools[0].entries[0]: Missing element tcc:items/swordfish of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:gameplay/fishing@minecraft:loot_table}.pools[0].entries[0].children[1]->{fathoms:gameplay/fishing/fish@minecraft:loot_table}.pools[0].entries[17]->{fathoms:items/fish/compatibility/swordfish@minecraft:loot_table}.pools[0].entries[0]: Missing element tcc:items/swordfish of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:gameplay/fishing@minecraft:loot_table}.pools[0].entries[0].children[2]->{fathoms:gameplay/fishing/fish@minecraft:loot_table}.pools[0].entries[17]->{fathoms:items/fish/compatibility/swordfish@minecraft:loot_table}.pools[0].entries[0]: Missing element tcc:items/swordfish of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:gameplay/fishing@minecraft:loot_table}.pools[0].entries[0].children[3]->{fathoms:gameplay/fishing/fish@minecraft:loot_table}.pools[0].entries[17]->{fathoms:items/fish/compatibility/swordfish@minecraft:loot_table}.pools[0].entries[0]: Missing element tcc:items/swordfish of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:entities/guardian@minecraft:loot_table}.pools[2].entries[0]->{fathoms:gameplay/fishing/fish@minecraft:loot_table}.pools[0].entries[17]->{fathoms:items/fish/compatibility/swordfish@minecraft:loot_table}.pools[0].entries[0]: Missing element tcc:items/swordfish of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {fathoms:gameplay/nautilus_siphon@minecraft:loot_table}.pools[0].entries[0]->{fathoms:gameplay/fishing/fish@minecraft:loot_table}.pools[0].entries[17]->{fathoms:items/fish/compatibility/swordfish@minecraft:loot_table}.pools[0].entries[0]: Missing element tcc:items/swordfish of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:chests/trial_chambers/reward_unique@minecraft:loot_table}.pools[0].entries[0]: Missing element moldomre:items/extras/mutated_crimson_fungus of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:chests/trial_chambers/reward_unique@minecraft:loot_table}.pools[0].entries[1]: Missing element moldomre:items/extras/mutated_warped_fungus of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:chests/stronghold_library@minecraft:loot_table}.pools[0].entries[0]: Missing element moldomre:items/extras/big_key of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:chests/stronghold_library@minecraft:loot_table}.pools[0].entries[1]: Missing element moldomre:items/extras/small_key of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {fathoms:items/fish/compatibility/swordfish@minecraft:loot_table}.pools[0].entries[0]: Missing element tcc:items/swordfish of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {fathoms:gameplay/fishing/fish@minecraft:loot_table}.pools[0].entries[17]->{fathoms:items/fish/compatibility/swordfish@minecraft:loot_table}.pools[0].entries[0]: Missing element tcc:items/swordfish of type minecraft:loot_table
+[19:18:22] [Worker-Main-3/INFO]: Registering Amber commands for Fabric
+[19:18:23] [main/INFO]: Loaded 3196 recipes
+[19:18:23] [main/ERROR]: Couldn't load advancements: [moldomre:story/storms, moldomre:story/using_storms, moldomre:story/sun, moldomre:story/using_sun]
+[19:18:23] [main/INFO]: Loaded 3087 advancements
+[19:18:23] [main/INFO]: Loaded 17 moobloom variants
+[19:18:23] [main/INFO]: Loaded 32 entity animations
+[19:18:24] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[19:18:24] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[19:18:24] [main/INFO]: Applied 393 biome modifications to 117 of 127 new biomes in 14.56 ms
+[19:18:24] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:18:24] [Server thread/INFO]: Loading properties
+[19:18:24] [Server thread/INFO]: Default game type: SURVIVAL
+[19:18:24] [Server thread/INFO]: Generating keypair
+[19:18:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:18:24] [Server thread/INFO]: Using epoll channel type
+[19:18:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:18:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:18:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:18:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:18:24] [Server thread/INFO]: Preparing level "world"
+[19:18:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:18:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:30] [Server thread/INFO]: Time elapsed: 5093 ms
+[19:18:30] [Server thread/INFO]: Done (5.583s)! For help, type "help"
+[19:18:50] [Server thread/INFO]: Madericz[/127.237.250.73:50047] logged in with entity id 50 at (-304.3140499108549, 64.0, -996.1715379912614)
+[19:18:50] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[19:18:50] [Server thread/INFO]: Loading config from file...
+[19:18:50] [Server thread/INFO]: Madericz joined the game
+[19:36:55] [Server thread/INFO]: Madericz has made the advancement [To beer or not to beer?]
+[19:43:55] [Server thread/INFO]: Madericz has reached the goal [Riders On The Storm]
+[19:45:47] [Server thread/INFO]: Madericz has made the advancement [Who is Cutting Onions?]
+[19:45:52] [Server thread/INFO]: Madericz has made the advancement [Ice Bucket Challenge]
+[19:49:05] [Server thread/INFO]: [Madericz: Set own game mode to Creative Mode]
+[20:15:31] [Server thread/INFO]: Madericz lost connection: Disconnected
+[20:15:31] [Server thread/INFO]: Madericz left the game
+[20:15:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:15:44] [Server thread/INFO]: STOP<--[HERE]
+[20:16:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
